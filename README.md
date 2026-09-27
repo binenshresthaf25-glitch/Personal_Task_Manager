@@ -108,23 +108,21 @@ npm run preview   # Preview the production build locally
 
 ## Screenshots
 
-> Add your own screenshots here after running the app.
+### Home Screen (Empty State)
 
-**Home screen (empty state):**
+![Home Screen](./screenshots/home_page.png)
 
-`[ screenshot-home-empty.png ]`
+### Task List with Tasks Added
 
-**Task list with tasks added:**
+![Task List](./screenshots/tasks_list.png)
 
-`[ screenshot-task-list.png ]`
+### Editing a Task
 
-**Editing a task:**
+![Editing a Task](./screenshots/tasks_edit.png)
 
-`[ screenshot-edit-task.png ]`
+### Mobile Responsive View
 
-**Mobile responsive view:**
-
-`[ screenshot-mobile-view.png ]`
+![Mobile Responsive View](./screenshots/mobile_view.png)
 
 ## Author's Notes
 
